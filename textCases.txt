@@ -1,0 +1,1725 @@
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 2
+Real Result: 1
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: -1
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: -999999999
+
+Test FAILED: Inputs( -999999999, 9999999999 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test OK: Inputs( 9, 9 )
+Real Result: 9
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 2
+Real Result: 1
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: 1
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: -999999999
+
+Test FAILED: Inputs( -999999999, 9999999999 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: -1
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: 1
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 999999999
+
+Test FAILED: Inputs( -999999999, 9999999999 )
+Expected Result: 0
+Real Result: 999999999
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: -9
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: -9
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: -9
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 0
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 2
+Real Result: 1
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: -1
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: -1
+
+Test FAILED: Inputs( -999999999, 9999999999 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test OK: Inputs( 9, 9 )
+Real Result: 9
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: -1
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: 1
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 1
+
+Test FAILED: Inputs( -999999999, 9999999999 )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: -9
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: -9
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: -9
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 0
+
+Test OK: Inputs( -999999999, 9999999999 )
+Real Result: 0
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: 0
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: 0
+
+Test OK: Inputs( 1, -1 )
+Real Result: 0
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 0
+
+Test OK: Inputs( -999999999, 9999999999 )
+Real Result: 0
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 120
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test OK: Inputs( , -10 )
+Real Result: -10
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: -10
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: -1
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: 1
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 1
+
+Test FAILED: Inputs( -999999999, 9999999999 )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: -9999999999
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: 0
+
+Test OK: Inputs( 1, -1 )
+Real Result: 0
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 0
+
+Test OK: Inputs( -999999999, 9999999999 )
+Real Result: 0
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: 0
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: 0
+
+Test OK: Inputs( 1, -1 )
+Real Result: 0
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: 0
+
+Test OK: Inputs( -999999999, 9999999999 )
+Real Result: 0
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: 0
+
+Test FAILED: Inputs( 1, 1 )
+Expected Result: 6
+Real Result: 01
+
+Test FAILED: Inputs( 1, -1 )
+Expected Result: 0
+Real Result: -1
+
+Test FAILED: Inputs( -999999999, -999999999 )
+Expected Result: -1999999998
+Real Result: -1
+
+Test FAILED: Inputs( -999999999, 9999999999 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 9, 9 )
+Expected Result: 9
+Real Result: 99999999999
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( NA, 9854k7 )
+Real Result: 0
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test FAILED: Inputs( , -10 )
+Expected Result: -10
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test FAILED: Inputs( -9999999991,  )
+Expected Result: 0
+Real Result: 120
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test OK: Inputs( , -10 )
+Real Result: -10
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: -10
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test FAILED: Inputs( -9999999991,  )
+Expected Result: 0
+Real Result: -200
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: 999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( 2134a,  )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( , 9878a )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: 200
+Real Result: 100
+
+Test FAILED: Inputs( -100, 100 )
+Expected Result: -200
+Real Result: -100
+
+Test FAILED: Inputs( 100,  )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( , 123 )
+Real Result: -123
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test OK: Inputs( -20, 30 )
+Real Result: 10
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test FAILED: Inputs( , -10 )
+Expected Result: -10
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: -9999999999
+
+Test OK: Inputs( 2134a,  )
+Real Result: 0
+
+Test FAILED: Inputs( , 9878a )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: 200
+Real Result: 100
+
+Test FAILED: Inputs( -100, 100 )
+Expected Result: -200
+Real Result: -100
+
+Test FAILED: Inputs( 100,  )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( , 123 )
+Real Result: -123
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: -123
+
+Test FAILED: Inputs( 10, 10 )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( , 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 2435gf,  )
+Real Result: 0
+
+Test OK: Inputs( , 624fd )
+Real Result: 0
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: -10000
+Real Result: 0
+
+Test FAILED: Inputs( -90, 90 )
+Expected Result: -8100
+Real Result: 0
+
+Test OK: Inputs( 25,  )
+Real Result: 0
+
+Test OK: Inputs( , -5 )
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 2 )
+Expected Result: 5
+Real Result: 0
+
+Test OK: Inputs( -9999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 99999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 1, -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( 1, 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 999db999, 1 )
+Real Result: 0
+
+Test FAILED: Inputs( , 999s99 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 254, 0 )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 256,  )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 123, -10 )
+Expected Result: -12.3
+Real Result: 
+
+Test FAILED: Inputs( -100, 10 )
+Expected Result: -10
+Real Result: 
+
+Test FAILED: Inputs( , -10 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( asd, fgh )
+Expected Result: asdfgh
+Real Result: 
+
+Test FAILED: Inputs( aaddssaadda,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( , aaddssaadds )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 123, asd%&$ )
+Expected Result: 123asd%&$
+Real Result: 
+
+Test FAILED: Inputs( asd123, $%& )
+Expected Result: asd123$%&
+Real Result: 
+
+Test FAILED: Inputs( asd,  )
+Expected Result: asd
+Real Result: 
+
+Test FAILED: Inputs( , 123asd )
+Expected Result: 123asd
+Real Result: 
+
+Test OK: Inputs( ,  )
+Real Result: 
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test FAILED: Inputs( , -10 )
+Expected Result: -10
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test FAILED: Inputs( -9999999991,  )
+Expected Result: 0
+Real Result: -200
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: 999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 999999999
+
+Test OK: Inputs( 2134a,  )
+Real Result: 0
+
+Test OK: Inputs( , 9878a )
+Real Result: 0
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: 200
+Real Result: 100
+
+Test FAILED: Inputs( -100, 100 )
+Expected Result: -200
+Real Result: 100
+
+Test FAILED: Inputs( 100,  )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( , 123 )
+Real Result: -123
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 10 )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( , 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 2435gf,  )
+Real Result: 0
+
+Test OK: Inputs( , 624fd )
+Real Result: 0
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: -10000
+Real Result: 0
+
+Test FAILED: Inputs( -90, 90 )
+Expected Result: -8100
+Real Result: 0
+
+Test OK: Inputs( 25,  )
+Real Result: 0
+
+Test OK: Inputs( , -5 )
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 2 )
+Expected Result: 5
+Real Result: 0
+
+Test OK: Inputs( -9999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 99999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 1, -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( 1, 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 999db999, 1 )
+Real Result: 0
+
+Test OK: Inputs( , 999s99 )
+Real Result: 0
+
+Test FAILED: Inputs( 254, 0 )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 256,  )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 123, -10 )
+Expected Result: -12.3
+Real Result: 
+
+Test FAILED: Inputs( -100, 10 )
+Expected Result: -10
+Real Result: 
+
+Test FAILED: Inputs( , -10 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( asd, fgh )
+Expected Result: asdfgh
+Real Result: 
+
+Test FAILED: Inputs( aaddssaadda,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( , aaddssaadds )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 123, asd%&$ )
+Expected Result: 123asd%&$
+Real Result: 
+
+Test FAILED: Inputs( asd123, $%& )
+Expected Result: asd123$%&
+Real Result: 
+
+Test FAILED: Inputs( asd,  )
+Expected Result: asd
+Real Result: 
+
+Test FAILED: Inputs( , 123asd )
+Expected Result: 123asd
+Real Result: 
+
+Test OK: Inputs( ,  )
+Real Result: 
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test OK: Inputs( 30,  )
+Real Result: 30
+
+Test OK: Inputs( , -10 )
+Real Result: -10
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: -10
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test FAILED: Inputs( -9999999991,  )
+Expected Result: 0
+Real Result: -200
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( 2134a,  )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( , 9878a )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: 200
+Real Result: 100
+
+Test FAILED: Inputs( -100, 100 )
+Expected Result: -200
+Real Result: 100
+
+Test FAILED: Inputs( 100,  )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( , 123 )
+Real Result: -123
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: -123
+
+Test FAILED: Inputs( 10, 10 )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( , 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 2435gf,  )
+Real Result: 0
+
+Test FAILED: Inputs( , 624fd )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: -10000
+Real Result: 0
+
+Test FAILED: Inputs( -90, 90 )
+Expected Result: -8100
+Real Result: 0
+
+Test OK: Inputs( 25,  )
+Real Result: 0
+
+Test OK: Inputs( , -5 )
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 2 )
+Expected Result: 5
+Real Result: 0
+
+Test OK: Inputs( -9999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 99999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 1, -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( 1, 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 999db999, 1 )
+Real Result: 0
+
+Test OK: Inputs( , 999s99 )
+Real Result: 0
+
+Test FAILED: Inputs( 254, 0 )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 256,  )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 123, -10 )
+Expected Result: -12.3
+Real Result: 
+
+Test FAILED: Inputs( -100, 10 )
+Expected Result: -10
+Real Result: 
+
+Test FAILED: Inputs( , -10 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( asd, fgh )
+Expected Result: asdfgh
+Real Result: 
+
+Test FAILED: Inputs( aaddssaadda,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( , aaddssaadds )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 123, asd%&$ )
+Expected Result: 123asd%&$
+Real Result: 
+
+Test FAILED: Inputs( asd123, $%& )
+Expected Result: asd123$%&
+Real Result: 
+
+Test FAILED: Inputs( asd,  )
+Expected Result: asd
+Real Result: 
+
+Test FAILED: Inputs( , 123asd )
+Expected Result: 123asd
+Real Result: 
+
+Test OK: Inputs( ,  )
+Real Result: 
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test FAILED: Inputs( , -10 )
+Expected Result: -10
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: 999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 999999999
+
+Test OK: Inputs( 2134a,  )
+Real Result: 0
+
+Test FAILED: Inputs( , 9878a )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: 200
+Real Result: 100
+
+Test FAILED: Inputs( -100, 100 )
+Expected Result: -200
+Real Result: 100
+
+Test FAILED: Inputs( 100,  )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( , 123 )
+Real Result: -123
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: -123
+
+Test FAILED: Inputs( 10, 10 )
+Expected Result: 100
+Real Result: -1230
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( , 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 2435gf,  )
+Real Result: 0
+
+Test FAILED: Inputs( , 624fd )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: -10000
+Real Result: 0
+
+Test FAILED: Inputs( -90, 90 )
+Expected Result: -8100
+Real Result: 0
+
+Test OK: Inputs( 25,  )
+Real Result: 0
+
+Test OK: Inputs( , -5 )
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 2 )
+Expected Result: 5
+Real Result: 0
+
+Test OK: Inputs( -9999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 99999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 1, -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( 1, 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 999db999, 1 )
+Real Result: 0
+
+Test FAILED: Inputs( , 999s99 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 254, 0 )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 256,  )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 123, -10 )
+Expected Result: -12.3
+Real Result: 
+
+Test FAILED: Inputs( -100, 10 )
+Expected Result: -10
+Real Result: 
+
+Test FAILED: Inputs( , -10 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( asd, fgh )
+Expected Result: asdfgh
+Real Result: 
+
+Test FAILED: Inputs( aaddssaadda,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( , aaddssaadds )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 123, asd%&$ )
+Expected Result: 123asd%&$
+Real Result: 
+
+Test FAILED: Inputs( asd123, $%& )
+Expected Result: asd123$%&
+Real Result: 
+
+Test FAILED: Inputs( asd,  )
+Expected Result: asd
+Real Result: 
+
+Test FAILED: Inputs( , 123asd )
+Expected Result: 123asd
+Real Result: 
+
+Test OK: Inputs( ,  )
+Real Result: 
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test OK: Inputs( , -10 )
+Real Result: -10
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: 999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: -9000000000
+
+Test FAILED: Inputs( 2134a,  )
+Expected Result: 0
+Real Result: -9000000000
+
+Test FAILED: Inputs( , 9878a )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: 200
+Real Result: 100
+
+Test FAILED: Inputs( -100, 100 )
+Expected Result: -200
+Real Result: 100
+
+Test FAILED: Inputs( 100,  )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( , 123 )
+Real Result: -123
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 10 )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( , 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 2435gf,  )
+Real Result: 0
+
+Test FAILED: Inputs( , 624fd )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: -10000
+Real Result: 0
+
+Test FAILED: Inputs( -90, 90 )
+Expected Result: -8100
+Real Result: 0
+
+Test OK: Inputs( 25,  )
+Real Result: 0
+
+Test OK: Inputs( , -5 )
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 2 )
+Expected Result: 5
+Real Result: 0
+
+Test OK: Inputs( -9999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 99999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 1, -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( 1, 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 999db999, 1 )
+Real Result: 0
+
+Test FAILED: Inputs( , 999s99 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 254, 0 )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 256,  )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 123, -10 )
+Expected Result: -12.3
+Real Result: 
+
+Test FAILED: Inputs( -100, 10 )
+Expected Result: -10
+Real Result: 
+
+Test FAILED: Inputs( , -10 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( asd, fgh )
+Expected Result: asdfgh
+Real Result: 
+
+Test FAILED: Inputs( aaddssaadda,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( , aaddssaadds )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 123, asd%&$ )
+Expected Result: 123asd%&$
+Real Result: 
+
+Test FAILED: Inputs( asd123, $%& )
+Expected Result: asd123$%&
+Real Result: 
+
+Test FAILED: Inputs( asd,  )
+Expected Result: asd
+Real Result: 
+
+Test FAILED: Inputs( , 123asd )
+Expected Result: 123asd
+Real Result: 
+
+Test OK: Inputs( ,  )
+Real Result: 
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test OK: Inputs( , -10 )
+Real Result: -10
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: -10
+
+Test FAILED: Inputs( 500, 200 )
+Expected Result: 300
+Real Result: -200
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( 2134a,  )
+Expected Result: 0
+Real Result: -9999999999
+
+Test FAILED: Inputs( , 9878a )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: 200
+Real Result: 100
+
+Test FAILED: Inputs( -100, 100 )
+Expected Result: -200
+Real Result: 100
+
+Test FAILED: Inputs( 100,  )
+Expected Result: 100
+Real Result: 0
+
+Test FAILED: Inputs( , 123 )
+Expected Result: -123
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 10 )
+Expected Result: 100
+Real Result: 0
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( , 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 2435gf,  )
+Real Result: 0
+
+Test FAILED: Inputs( , 624fd )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 100, -100 )
+Expected Result: -10000
+Real Result: 0
+
+Test FAILED: Inputs( -90, 90 )
+Expected Result: -8100
+Real Result: 0
+
+Test OK: Inputs( 25,  )
+Real Result: 0
+
+Test OK: Inputs( , -5 )
+Real Result: 0
+
+Test OK: Inputs( ,  )
+Real Result: 0
+
+Test FAILED: Inputs( 10, 2 )
+Expected Result: 5
+Real Result: 0
+
+Test OK: Inputs( -9999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 99999999991, 1 )
+Real Result: 0
+
+Test OK: Inputs( 1, -9999999991 )
+Real Result: 0
+
+Test OK: Inputs( 1, 99999999991 )
+Real Result: 0
+
+Test OK: Inputs( 999db999, 1 )
+Real Result: 0
+
+Test OK: Inputs( , 999s99 )
+Real Result: 0
+
+Test FAILED: Inputs( 254, 0 )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 256,  )
+Expected Result: Error
+Real Result: 
+
+Test FAILED: Inputs( 123, -10 )
+Expected Result: -12.3
+Real Result: 
+
+Test FAILED: Inputs( -100, 10 )
+Expected Result: -10
+Real Result: 
+
+Test FAILED: Inputs( , -10 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( ,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( asd, fgh )
+Expected Result: asdfgh
+Real Result: 
+
+Test FAILED: Inputs( aaddssaadda,  )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( , aaddssaadds )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 123, asd%&$ )
+Expected Result: 123asd%&$
+Real Result: 
+
+Test FAILED: Inputs( asd123, $%& )
+Expected Result: asd123$%&
+Real Result: 
+
+Test FAILED: Inputs( asd,  )
+Expected Result: asd
+Real Result: 
+
+Test FAILED: Inputs( , 123asd )
+Expected Result: 123asd
+Real Result: 
+
+Test OK: Inputs( ,  )
+Real Result: 
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test OK: Inputs( -9999999991,  )
+Real Result: 0
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test OK: Inputs( , -9999999991 )
+Real Result: 0
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
+Test FAILED: Inputs( -20, 30 )
+Expected Result: 10
+Real Result: 30
+
+Test FAILED: Inputs( 30,  )
+Expected Result: 30
+Real Result: 0
+
+Test OK: Inputs( , -10 )
+Real Result: -10
+
+Test FAILED: Inputs( 999, 120 )
+Expected Result: 1119
+Real Result: 120
+
+Test FAILED: Inputs( -9999999991,  )
+Expected Result: 0
+Real Result: 120
+
+Test OK: Inputs( 99999999991,  )
+Real Result: 0
+
+Test FAILED: Inputs( , -9999999991 )
+Expected Result: 0
+Real Result: -999999999
+
+Test FAILED: Inputs( , 99999999991 )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( 1234a42, NA )
+Expected Result: 0
+Real Result: 9999999999
+
+Test FAILED: Inputs( NA, 9854k7 )
+Expected Result: 0
+Real Result: 
+
+Test FAILED: Inputs( 30, -20 )
+Expected Result: 10
+Real Result: -20
+
